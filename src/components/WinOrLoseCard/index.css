@@ -1,0 +1,53 @@
+/* Write your code here. */
+.notice-container {
+  width: 700px;
+  height: 500px;
+  background-color: #ffffff33;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  margin: 30px;
+}
+
+.won-heading {
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.best {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.total-score {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  color: #6a59ff;
+}
+
+.button {
+  background-color: #ffce27;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 12px;
+  outline: none;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  color: #3d3d3d;
+}
+
+.image-emoji {
+  width: 80%;
+}
